@@ -15,5 +15,9 @@
 </p>
 
 <p align="center">
+  <img src="./playground.svg" width="100%" alt="Playground: a cursor sweeps a grid of tiles spelling ASAAD; the tiles fall away to reveal 'access granted', then rebuild.">
+</p>
+
+<p align="center">
   <img src="./footer.svg" width="100%" alt="نوّرت. Thanks for stopping by.">
 </p>
